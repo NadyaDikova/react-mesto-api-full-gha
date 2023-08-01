@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 84.201.132.164
+IP-адрес 10.128.0.33
 
 Frontend https://mesto-project.students.nomoreparties.sbs
 
