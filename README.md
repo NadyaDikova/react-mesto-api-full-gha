@@ -9,8 +9,8 @@
 
 ## Ссылки на проект
 
-IP-адрес x.x.x.x
+IP-адрес 84.201.132.164
 
-Frontend https://...
+Frontend https://mesto-project.students.nomoreparties.sbs
 
-Backend https://...
+Backend https://api.mesto-pr.students.nomoreparties.sbs
